@@ -1,0 +1,1595 @@
+[ 2015-05-15T00:13:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0030s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:16:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:16:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:16:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:16:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:16:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:16:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:16:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:17:12+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('69','好','游客','/Public/images/default.jpg','2015-05-15 00:17:12') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:17:26+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('70','方法','游客','/Public/images/default.jpg','2015-05-15 00:17:26') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:20:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:21:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:21:35+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('69','倒萨','游客','/Public/images/default.jpg','2015-05-15 00:21:35') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:21:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:21:44+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('72','撒','游客','/Public/images/default.jpg','2015-05-15 00:21:44') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:23:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:24:00+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('74','打算','游客','/Public/images/default.jpg','2015-05-15 00:24:00') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:24:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:24:18+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','湿答答','游客','/Public/images/default.jpg','2015-05-15 00:24:18') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:24:21+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('77','打算','游客','/Public/images/default.jpg','2015-05-15 00:24:21') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:24:25+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('78','湿答答','游客','/Public/images/default.jpg','2015-05-15 00:24:25') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:24:34+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('79','方法','游客','/Public/images/default.jpg','2015-05-15 00:24:34') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:25:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '77' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '78' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '79' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '80' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:25:28+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('78','地方','游客','/Public/images/default.jpg','2015-05-15 00:25:28') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:25:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '77' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '78' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '81' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '79' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '80' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:25:53+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('77','四大','游客','/Public/images/default.jpg','2015-05-15 00:25:53') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:26:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '77' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '82' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '78' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '81' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '79' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '80' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:27:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '77' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '82' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '78' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '81' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '79' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '80' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:27:35+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('77','第三方','游客','/Public/images/default.jpg','2015-05-15 00:27:35') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:36:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '77' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '83' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '82' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '78' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '81' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '79' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '80' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:36:27+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('78','打算','游客','/Public/images/default.jpg','2015-05-15 00:36:27') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:36:31+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('77','撒旦撒','游客','/Public/images/default.jpg','2015-05-15 00:36:30') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:36:34+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('85','苏打粉','游客','/Public/images/default.jpg','2015-05-15 00:36:34') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:38:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '77' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '85' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '86' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '83' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '82' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '78' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '84' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '81' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '79' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '80' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '69' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '74' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '76' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '72' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '75' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '66' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '70' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '73' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '67' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '71' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '68' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:38:50+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('77','撒旦撒','游客','/Public/images/default.jpg','2015-05-15 00:38:50') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-15T00:38:53+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('87','分隔符','游客','/Public/images/default.jpg','2015-05-15 00:38:53') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:39:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:39:11+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','时代复分','游客','/Public/images/default.jpg','2015-05-15 00:39:11') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:39:14+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('89','第三方','游客','/Public/images/default.jpg','2015-05-15 00:39:14') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:39:18+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','就会感觉好','游客','/Public/images/default.jpg','2015-05-15 00:39:18') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:40:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '91' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '89' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '90' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:40:24+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('91','倒萨','游客','/Public/images/default.jpg','2015-05-15 00:40:24') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:40:27+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('92','法大使馆','游客','/Public/images/default.jpg','2015-05-15 00:40:27') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:40:44+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('90','撒旦','游客','/Public/images/default.jpg','2015-05-15 00:40:44') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:40:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:42:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:42:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:42:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:42:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:43:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:43:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:43:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:43:50+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','地方','游客','/Public/images/default.jpg','2015-05-15 00:43:50') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:43:52+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('95','撒旦','游客','/Public/images/default.jpg','2015-05-15 00:43:52') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:43:55+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('96','撒旦法','游客','/Public/images/default.jpg','2015-05-15 00:43:55') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:44:04+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('95','大撒旦','游客','/Public/images/default.jpg','2015-05-15 00:44:04') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:44:09+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('98','撒旦','游客','/Public/images/default.jpg','2015-05-15 00:44:08') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:44:13+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0080s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','地方放贷高峰时','游客','/Public/images/default.jpg','2015-05-15 00:44:13') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:44:16+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('100','阿萨德','游客','/Public/images/default.jpg','2015-05-15 00:44:16') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:44:18+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('101','浮点数','游客','/Public/images/default.jpg','2015-05-15 00:44:18') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:44:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-15T00:47:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:13+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','低速复苏的','游客','/Public/images/default.jpg','2015-05-15 00:47:13') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:15+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','低速复苏的','游客','/Public/images/default.jpg','2015-05-15 00:47:15') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:16+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','低速复苏的','游客','/Public/images/default.jpg','2015-05-15 00:47:16') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-15T00:47:16+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0110s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','低速复苏的','游客','/Public/images/default.jpg','2015-05-15 00:47:16') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:18+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('0','低速复苏的','游客','/Public/images/default.jpg','2015-05-15 00:47:18') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-15T00:47:21+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('107','发生的','游客','/Public/images/default.jpg','2015-05-15 00:47:21') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:25+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0090s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('108','飞豆','游客','/Public/images/default.jpg','2015-05-15 00:47:25') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-05-15T00:47:29+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0060s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('105','浮点数','游客','/Public/images/default.jpg','2015-05-15 00:47:29') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:31+08:00 ] 127.0.0.1 /index.php/home/index/addComment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: INSERT INTO `t_comment` (`parent_id`,`content`,`nickname`,`head_pic`,`create_time`) VALUES ('110','发生的','游客','/Public/images/default.jpg','2015-05-15 00:47:31') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '107' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '108' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '109' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '105' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '110' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '111' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '106' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '104' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '103' ) ORDER BY create_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T00:47:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\www_git\other\comment\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `t_comment` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_comment` WHERE ( parent_id = '0' ) ORDER BY create_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: num G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 16 行.
+NOTIC: [8] Undefined variable: commentlist G:\www_git\other\comment\app\Runtime\Cache\Home\2bc71d220ff77e6b12bf354b9e8a67ea.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
